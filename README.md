@@ -1,0 +1,2 @@
+# ckeditor
+Error ckeditor
